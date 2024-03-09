@@ -1,0 +1,16 @@
+Pasos para agregar una imagen a nuestra pagina web
+1.Preparar la imagen:Antes de agregarla a tu página web, asegúrate de tener la imagen que deseas 
+utilizar en el formato adecuado (JPEG, PNG, GIF, etc.) y que esté guardada en una ubicación accesible
+ para tu página web, como en la misma carpeta que el archivo HTML o en una carpeta específica.
+
+2.Abrir el archivo HTML: Abre el archivo HTML en un editor de texto o en un entorno de desarrollo web como Visual Studio Code.
+(Ecribiendo ./ te permitira ver tus archivos existentes y ubicar la ruta de tu imagen)
+
+3.Agregar la etiqueta <img>: En el lugar donde deseas que aparezca la imagen en tu página web.
+
+4.Guardar y cargar la página web: 
+Guarda los cambios en tu archivo HTML y luego abre la página web en un navegador para verificar 
+que la imagen se muestra correctamente.
+
+¡Y eso es todo! Con estos pasos, habrás agregado una imagen a tu página web. 
+Asegúrate de ajustar el tamaño y la ubicación de la imagen según tus necesidades de diseño.

@@ -1,0 +1,17 @@
+Para instalar la extensión Live Server en Visual Studio Code, sigue estos pasos:
+
+1-Abre Visual Studio Code.
+
+2.Ve a la pestaña de Extensiones en el menú lateral izquierdo o presiona Ctrl+Shift+X (Windows/Linux) o Cmd+Shift+X (Mac) para abrir el Administrador de extensiones.
+
+3.En el cuadro de búsqueda, escribe "Live Server".
+
+4.La primera opción que aparecerá debería ser "Live Server" desarrollada por "Ritwick Dey". Haz clic en "Install" (Instalar) para instalar la extensión.
+
+5.Una vez instalada, verás un botón de "Reload" (Recargar). Haz clic en él para activar la extensión o simplemente cierra y vuelve a abrir Visual Studio Code.
+
+6.Después de haber instalado la extensión, puedes abrir cualquier archivo HTML en Visual Studio Code, hacer clic derecho dentro del editor y seleccionar "Open with Live Server" (Abrir con Live Server) en el menú contextual. Esto iniciará un servidor local y abrirá tu archivo HTML en tu navegador web predeterminado.
+
+¡Y eso es todo! Ahora puedes disfrutar de la funcionalidad de Live Server para ver tus cambios en tiempo real mientras trabajas en tus proyectos web.
+
+
